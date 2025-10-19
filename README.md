@@ -1,2 +1,2 @@
 # Navrhy cislicovych obvodov
-Jendoduchy VHDL projekt stavoveho automatu.
+Jendoduchy VHDL projekt stavoveho automatu. 
